@@ -75,3 +75,5 @@ git stash pop
 continue new feature's development
 git工作流
 ```
+##git工作流
+![git工作流](/img/git.png)
