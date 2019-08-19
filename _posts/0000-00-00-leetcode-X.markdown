@@ -1,4 +1,4 @@
-/*
+/**
 ---
 layout:     post
 title:      "leetcode 8 string to integer"
