@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "leetcode__001"
+title:      "leetcode 1 two sum"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2019-02-29 12:00:00
 author:     "tian"
