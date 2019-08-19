@@ -1,3 +1,4 @@
+/*
 ---
 layout:     post
 title:      "leetcode 8 string to integer"
@@ -20,3 +21,4 @@ Example:
 ##代码（C++）
 ```
 ```
+*/
