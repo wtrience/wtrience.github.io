@@ -2,14 +2,13 @@
 layout:     post
 title:      "leetcode 20 valid parentheses"
 subtitle:   " \"coding everyday\""
-date:       2019-08-20 12:00:00
+date:       2019-08-19 12:00:00
 author:     "Tian"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Leetcode
 ---
-
-> “Yeah It's on. ”
+> “Thinking”
 
 #Valid Parentheses
 ##题目：Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
