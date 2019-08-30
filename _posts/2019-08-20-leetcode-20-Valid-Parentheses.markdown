@@ -10,8 +10,8 @@ tags:
 ---
 > “Thinking”
 
-#Valid Parentheses
-##题目：Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+# Valid Parentheses
+## 题目：Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:
 
@@ -25,8 +25,8 @@ Example:
 Input: "()[]{}"
 Output: true
 ```
-##解析
-##代码（C++）
+## 解析
+## 代码（C++）
 ```
 class Solution {
 public:

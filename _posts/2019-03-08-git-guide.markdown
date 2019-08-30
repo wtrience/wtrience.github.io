@@ -13,7 +13,7 @@ tags:
 
 > This document is not completed and will be updated anytime.
 
-##git常用命令：
+## git常用命令：
 ```
 git init //初始化本地git环境
 git clone XXX//克隆一份代码到本地仓库
@@ -45,8 +45,8 @@ export $HOME=/c/gitconfig //配置git config的HOME路径
 
  
 
-##团队协作git操作流程：
-###克隆一个全新的项目，完成新功能并且提交：
+## 团队协作git操作流程：
+### 克隆一个全新的项目，完成新功能并且提交：
 ```
 git clone XXX //克隆代码库
 git checkout -b test //新建分支
@@ -60,7 +60,7 @@ git checkout test //切换到test分支
 git meger master //把master分支的代码merge到test分支
 git push origin 分支名//把test分支的代码push到远程库
 ```
-###目前正在test分支上面开发某个功能，但是没有完成。突然一个紧急的bug需要处理
+### 目前正在test分支上面开发某个功能，但是没有完成。突然一个紧急的bug需要处理
 ```
 git add .
 git stash
@@ -75,5 +75,5 @@ git stash pop
 continue new feature's development
 git工作流
 ```
-##git工作流
+## git工作流
 ![git工作流](/img/git.png)
