@@ -9,7 +9,11 @@ tags:
     - GO
 ---
 
+
+
 go-server
+github:https://github.com/bobohume/gonet
+
 gonet 游戏服务器架构，mmo架构，分布式snowflake64为整形uuid,ai行为树，配置data，游戏大部分都在内存运算,分布式缓存redis,增加db模块读取blob数据。
 
 设计之初，建立在actor模式下的；rpc，以及消息驱动，rpc无需注册，支持通用数据(int,[]int,[3]int),map数据,以及struct数据，rpc性能测试如下；sql封装简单的orm(orm支持pb结构体做mysql blob,orm支持结构体做mysql json类型)具体看demo
