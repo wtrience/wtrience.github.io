@@ -13,8 +13,8 @@ url: "https://wtrience.github.io"              # your host, for absolute URL
 # SNS settings
 RSS: false
 github_username:    wtrience
-#weibo_username:     1628671073
-#zhihu_username:     wtrience-tian
+weibo_username:     1628671073
+zhihu_username:     wtrience-tian
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
