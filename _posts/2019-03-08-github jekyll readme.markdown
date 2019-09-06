@@ -8,9 +8,8 @@ header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - jekyll
     - BLOG
-    stickie: true
-
 ---
+
 
 ## 发布文章
 jekyll的所有文章都放在_posts目录下，分类的话暂时没涉及到，有兴趣的朋友可以先去看看。只需要在此目录内新建一个文件，后缀名为markdown即可。
