@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "test"
+subtitle:   " \"coding everyday\""
+date:       2019-10-28 12:00:00
+author:     "Tian"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - C++
+---
+> “Thinking”
+
+123
