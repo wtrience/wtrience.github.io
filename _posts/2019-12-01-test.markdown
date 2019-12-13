@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "test"
+title:      "随笔01"
 subtitle:   " \"coding everyday\""
-date:       2019-10-28 12:00:00
+date:       2019-12-13 12:00:00
 author:     "Tian"
 header-img: "img/post-bg-2015.jpg"
 tags:
@@ -10,4 +10,9 @@ tags:
 ---
 > “Thinking”
 
-123
+#并发编程的3个特性
+1、原子性
+2、可见性
+3、有序性
+
+#程序的编译、链接、装载与运行
