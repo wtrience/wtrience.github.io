@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "morning news"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2020-05-25 12:00:00
+author:     "tian"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - morning reading
+---
+week 22 01
+# 汽车租赁公司赫兹申请破产保护_0525
+
+Car rental company Hertz has filed for bankruptcy protection in the US after the pandemic saw its business plummet.
+The firm,which earns much of its income from car rentals at airports,said it had been affected by the sharp downturn in global travel.
+The company - which began operating a century ago in chicago with a dozen Model T Ford cars - had already furloughed or laid off 200000 employees, or around half of its global workforce,in response to the pandemic.
