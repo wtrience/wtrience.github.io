@@ -10,4 +10,5 @@ tags:
 ---
 
 > This document is not completed and will be updated anytime. 
+
 [week 22](https://wtrience.github.io/2020/05/25/daily-news-0525/)
