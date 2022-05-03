@@ -1,12 +1,11 @@
 ![logo](https://docsify.js.org/_media/icon.svg)
+# TIAN NOTE
 
-# 豆瓣影音
+> 记录笔记.
 
-> 使用Vue全家桶+Node.js搭建的小型全栈项目.
+* 算法
+* C++
+* GIS
 
-* 前端框架：vue-cli、vue-router、axios、vuex
-* UI类库：Mint-UI、Vant
-* 后端数据接口：Express、MongoDB
-
-[GitHub](https://github.com/Hanxueqing/Douban-Movie.git)
+[GitHub](https://github.com/wtrience/wtrience.github.io.git)
 [Get Started](#quick-start)
